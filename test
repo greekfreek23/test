@@ -1,0 +1,17 @@
+{
+  "biz1": {
+    "businessName": "Alpha HVAC Services"
+  },
+  "biz2": {
+    "businessName": "Beta Plumbing Co."
+  },
+  "biz3": {
+    "businessName": "Gamma Electrical"
+  },
+  "biz4": {
+    "businessName": "Delta Landscaping"
+  },
+  "biz5": {
+    "businessName": "Epsilon Cleaning"
+  }
+}
